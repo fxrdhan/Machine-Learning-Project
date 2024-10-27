@@ -1,0 +1,35 @@
+name: ml-clustering-classification
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.7
+  # Data manipulation and analysis
+  - pandas
+  - numpy
+  
+  # Machine Learning
+  - scikit-learn
+  
+  # Visualization
+  - matplotlib
+  - seaborn
+  
+  # Jupyter environment
+  - jupyter
+  - jupyterlab
+  
+  # Additional useful libraries
+  - scipy
+  - yellowbrick  # For machine learning visualization
+  
+  # Development tools
+  - pip
+  
+  # Additional pip packages
+  - pip:
+    - pandas-profiling  # For automated EDA
+    - optuna  # For hyperparameter optimization
+    - shap   # For model interpretation
+    - plotly  # For interactive visualizations
+    - imbalanced-learn  # For handling imbalanced datasets
