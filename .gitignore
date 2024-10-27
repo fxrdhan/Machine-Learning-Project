@@ -4,7 +4,7 @@ __pycache__/
 *.so
 
 # backup files
-*.~
+*~
 
 # C extensions
 *.egg-info/
