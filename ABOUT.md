@@ -1,4 +1,4 @@
-# Dokumentasi Lengkap Proyek Machine Learning
+# Proyek Machine Learning
 ## Kombinasi Unsupervised dan Supervised Learning
 
 ### 1. DESKRIPSI PROYEK
@@ -165,24 +165,7 @@ Proyek ini merupakan implementasi kombinasi teknik machine learning yang menggab
    - Menjelaskan pola dan insights yang ditemukan
    - Memberikan rekomendasi berdasarkan hasil
 
-### 8. NEXT STEPS
-
-1. Pemilihan Dataset
-   - Identifikasi sumber data potensial
-   - Verifikasi kesesuaian dengan requirements
-   - Validasi kualitas data
-
-2. Setup Environment
-   - Persiapan Python environment
-   - Instalasi library yang dibutuhkan
-   - Setup version control
-
-3. Exploratory Data Analysis
-   - Analisis awal dataset
-   - Identifikasi potential challenges
-   - Perencanaan preprocessing
-
-### 9. CHECKLIST PROYEK
+### 8. CHECKLIST PROYEK
 
 #### Persiapan
 - [ ] Dataset teridentifikasi
